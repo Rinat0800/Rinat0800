@@ -1,5 +1,14 @@
 ### Hi there 👋
+### Hi there 👋, Rinat Gafiulin
+#### Python backend development
+![Python backend development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Rinat Gafiulin and I'm a beginner backend developer on python. 
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinat0800)](https://github.com/anuraghazra/github-readme-stats)
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
